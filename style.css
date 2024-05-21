@@ -1,0 +1,69 @@
+
+.container{
+    margin-bottom: 100px;
+}
+
+.color{
+    background-color: #fceae8;
+    border-radius: 8px;
+}
+.price{
+    color: #ff3786;
+}
+.btn{
+    color:#fff3f8;
+    background-image: linear-gradient(to bottom, #ff8bb9 0% ,#ff3786 100%);
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-item{
+
+    padding: 20px 40px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+
+}
+.cat3{
+    background-color: blue;
+}
+.cat1,.cat2,.cat3{
+
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.toufiq h1{
+    color: white;
+
+}
+.toufiq img{
+  width: 150px;
+}
+.card{
+
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
+.nav-item a {
+    font-weight: 700;
+}
+.navbar-brand img, svg {
+    vertical-align: middle;
+    width: 13%;
+}
+.slide-container {
+    margin-bottom: 0px;
+}
+.slide-container .navbar{
+    background-color: transparent !important;
+}
